@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RodrigoGonzalez78
+- 👋 Hi, I’m Rodrigo Gonzalez. 
 - 👀 I am interested in android development and game development.
 - 🌱 I’m currently learning kotlin for android and c# for Unity Engine.
 - 📫 How to reach me: 
