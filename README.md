@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rodrigo Gonzalez. 
-- 👀 I am interested in android development and game development.
+- 👀 I am interested in movil development and game development.
 - 🌱 I’m currently learning kotlin for android and c# for Unity Engine.
 - 📫 How to reach me: 
 Linkedin:www.linkedin.com/in/rodrigo-alejandro-gonzalez-9ab700170
