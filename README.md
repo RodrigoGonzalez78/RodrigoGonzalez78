@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo Gonzalez. 
-- 👀 I am interested in movil development and game development.
-- 🌱 I’m currently learning kotlin for android, c# for Unity Engine and Dart(Flutter Sdk) for multiplatform development.
+- 👀 I am interested in Movil Development.
+- 🌱 I’m currently learning Kotlin for android, Golang and Dart(Flutter Sdk).
 - 📫 How to reach me: 
 
 
