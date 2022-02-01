@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo Gonzalez. 
 - 👀 I am interested in Movil Development.
-- 🌱 I’m currently learning Kotlin for android, Golang and Dart(Flutter Sdk).
+- 🌱 I’m currently learning Kotlin for android, Golang.
 - 📫 How to reach me: 
 
 
