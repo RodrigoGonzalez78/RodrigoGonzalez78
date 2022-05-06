@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rodrigo Gonzalez. 
 - 👀 I am interested in Movil Development.
 - 🌱 I’m currently learning Kotlin for android and Golang.
-- 📫 How to reach me: 
 
 
 <!---
