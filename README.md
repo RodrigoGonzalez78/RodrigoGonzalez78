@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rodrigo Gonzalez.<br>👀 I am interested in Movil Development.<br>🌱 I’m currently learning Kotlin for android and Golang.
+👋 Hi, I’m Rodrigo Gonzalez.<br>👀 I am interested in Movil Development.<br>🌱 I’m currently learning Kotlin for android, and Flutter.
 
 
 ## 🌐 Socials:
