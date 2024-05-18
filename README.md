@@ -1,6 +1,8 @@
-# 💫 About Me:
-👋 Hi, I’m Rodrigo Gonzalez.<br>👀 I am interested in Movil Development.<br>🌱 I’m currently learning Kotlin for android, and Flutter.
 
+
+# 💫 About Me:
+👋 Hi, I’m Rodrigo Gonzalez.  
+👀 I am interested in Mobile Development and Backend Development.  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigo.gonzalez.0/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-gonzalez-developer/) 
