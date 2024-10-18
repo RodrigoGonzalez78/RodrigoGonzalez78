@@ -16,5 +16,4 @@
 ## 📈 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGonzalez78&layout=compact&theme=radical)
-
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoGonzalez78&show_icons=true&theme=radical)  
