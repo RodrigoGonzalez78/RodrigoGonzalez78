@@ -5,7 +5,6 @@
 🌱 Always eager to learn new technologies and improve my skills in **Backend Development** with **Golang** and **Kotlin**.  
 💡 Passionate about building apps that improve user experiences and solve real-world problems.  
 🎯 My goal is to contribute to innovative projects that make an impact.  
-⚡ Fun fact: I started programming in **Java** during high school and have since explored various technologies, including **Unity** for game development.  
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigo.gonzalez.0/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-gonzalez-developer/) 
