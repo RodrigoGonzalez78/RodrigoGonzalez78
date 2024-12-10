@@ -19,6 +19,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGonzalez78&layout=compact&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RodrigoGonzalez78&theme=onedark)](https://git.io/streak-stats)
-
 # 🛠️ Interesting projects ⬇️
