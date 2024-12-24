@@ -1,8 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m **Rodrigo Gonzalez**.  
-🔭 I’m currently working on mobile development projects, specifically **Android** and **Flutter** applications.  
-🌱 Always eager to learn new technologies and improve my skills in **Backend Development** with **Golang** and **Kotlin**.  
+👋 Hi, I’m **Rodrigo Gonzalez**.   
 💡 Passionate about building apps that improve user experiences and solve real-world problems.  
 🎯 My goal is to contribute to innovative projects that make an impact.  
 
